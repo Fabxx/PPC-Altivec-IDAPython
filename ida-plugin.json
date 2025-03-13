@@ -1,0 +1,6 @@
+{ "IDAMetadataDescriptorVersion": 1,
+  "plugin": {
+    "name": "PowerPC Altivec",
+    "entryPoint": "ppc_altivec.py"
+  }
+}
