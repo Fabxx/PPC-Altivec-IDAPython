@@ -48,5 +48,5 @@ CHANGELOG
 #### 08.06.18  yui-konnu   V1.9.1
 * Added CMake build file.
 
-#### 14.03.25  Fabx        v1.9.1a
+#### 14.03.25  Fabx        V1.9.1a
 * Port to IDAPython for IDA Pro 9.x
