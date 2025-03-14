@@ -11,10 +11,9 @@ support for the Altivec instruction set.
 INSTALLATION
 ------------
 Place the `.py` and `.json` file inside `plugins` folder of IDA
-within your IDA Pro 'plugins' directory. By default the plugin is active when dealing with PPC code, but
-you can disable/re-enable the plugin by using the entry in the Edit/Plugins menu. If you want
-the plugin to be disabled on load, you will have to edit the python source. 
-Change the value of g_HookState to 'kDisabled' and rebuild.
+
+Plugin is enabled by default, can be disabled through `CTRL+H` shortcut or `Edit > Plugins` section
+
 
 
 
