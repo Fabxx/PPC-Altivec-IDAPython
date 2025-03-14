@@ -1,4 +1,5 @@
-
+# TESTERS NEEDED!
+This IDAPython port is experimental, i need testers to confirm that the mentioned instructions are being supported correctly.
 
 # PowerPC Altivec/VMX Extension Module
 
