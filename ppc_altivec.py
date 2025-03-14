@@ -1525,6 +1525,5 @@ class AltivecPlugin(idaapi.plugin_t):
     def run(self, arg):
         PluginMain(arg)
 
-# Registrazione del plugin
 def PLUGIN_ENTRY():
     return AltivecPlugin()
